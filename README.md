@@ -16,7 +16,8 @@ binario aleatorio y después muestre ese fichero por pantalla. *de cada
 coche se desea saber modelo, año de fabricación y precio, crea los
 arrays por código, no es necesario introducirlo por pantalla. El modelo
 tendrá como máximo 20 caracteres.
-## Ejercicio 4: Crea una clase java que almacene en un fichero binario
+## Ejercicio 4: 
+Crea una clase java que almacene en un fichero binario
 secuencial ‘asignaturas.dat’ 5 objetos Asignatura (Código asignatura,
 Nombre, professor, nº de horas). Los datos deben ser introducidos por
 teclado [Scanner sc = new Scanner(System.in); sc.nextLine() / sc.nextInt()].
