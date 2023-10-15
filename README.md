@@ -1,4 +1,4 @@
-#Dossier de Ejercicios:
+# Dossier de Ejercicios:
 Ejercicio 1: Escribe Hola Mundo!.
 Ejercicio 2: Dadas dos variables numéricas A y B, que el usuario debe introducir por consola, se
 pide realizar un algoritmo que intercambie los valores de ambas variables y muestre por pantalla
