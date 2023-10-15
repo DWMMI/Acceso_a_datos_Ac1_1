@@ -1,15 +1,24 @@
-# Dossier de Ejercicios:
-Ejercicio 1: Escribe Hola Mundo!.
-Ejercicio 2: Dadas dos variables numéricas A y B, que el usuario debe introducir por consola, se
-pide realizar un algoritmo que intercambie los valores de ambas variables y muestre por pantalla
-cuanto valen al final las dos variables.
-Ejercicio 3: Escribe un código en el que se introduzcan dos valores por consola. A continuación,
-muestra por pantalla el resultado de sumar, restar, multiplicar y dividir.
-Ejercicio 4: La Universidad desea una aplicación que le calcule el porcentaje de niños y niñas que
-hay matriculados en una jornada para futuros estudiantes.
-Se pide diseñar un programa que pregunte la cantidad de niños y niñas que van a participar y
-calcule el porcentaje de cada uno de ellos.
-Ejercicio 5: Realiza un conversor de euros a pesetas. Recuerda que: 1€ = 166,386 pesetas. En
-Python no existen las constantes pero por convención si declaramos una variable con
-MAYUSCULAS se entiende que se trata de una Constante.
+# Actividad UF1.1
+## Ejercicio 1:
+Crea una clase Producto en el proyecto con los siguientes
+atributos: id (int), nombre (String), medidas (String), precio (float). Crea
+también sus constructores, getters y setters. Ten en cuenta que objetos
+de esta clase serán almacenados en ficheros binarios.
+Crea una clase InsertarProductos que mediante un array de objetos
+Producto introduzca 10 productos en un fichero binario productos.dat.
+Almacena el fichero dentro de la carpeta del proyecto.
+## Ejercicio 2:
+Crea una clase java que abra un fichero de texto y saque por
+pantalla el texto con todas las vocales sustituidas por la letra a.
+## Ejercicio 3 
+Crea una clase java que almacene 10 coches * en un fichero
+binario aleatorio y después muestre ese fichero por pantalla. *de cada
+coche se desea saber modelo, año de fabricación y precio, crea los
+arrays por código, no es necesario introducirlo por pantalla. El modelo
+tendrá como máximo 20 caracteres.
+## Ejercicio 4: Crea una clase java que almacene en un fichero binario
+secuencial ‘asignaturas.dat’ 5 objetos Asignatura (Código asignatura,
+Nombre, professor, nº de horas). Los datos deben ser introducidos por
+teclado [Scanner sc = new Scanner(System.in); sc.nextLine() / sc.nextInt()].
+
 
